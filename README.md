@@ -5,7 +5,7 @@
 
 ## 在线 Demo
 
-**链接**：[https://Yoren3.github.io/index/](https://Yoren3.github.io/index/)
+**链接**：[https://yoren3.github.io/knowbase-ai/](https://yoren3.github.io/knowbase-ai/)
 
 > 打开即可体验：角色切换、权限拦截、三种回答模式、HITL 反馈收集。
 
